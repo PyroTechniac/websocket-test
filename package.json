@@ -1,0 +1,11 @@
+{
+    "name": "websocket-test",
+    "author": {
+        "name": "Gryffon Bellish"
+    },
+    "description": "Used to learn how to make a ws server",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PyroTechniac/websocket-events"
+    }
+}
