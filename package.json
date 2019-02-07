@@ -1,4 +1,10 @@
 {
     "name": "websocket-testing",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "scripts": {
+        "test": "node ./test/test.js"
+    },
+    "dependencies": {
+        "websocket": "^1.0.28"
+    }
 }
